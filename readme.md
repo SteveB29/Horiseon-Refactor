@@ -7,3 +7,6 @@
 
 ## Live web page
 [Horiseon Social Solution Services](https://steveb29.github.io/horiseon-refactor/)
+
+## Screenshot of web page mockup
+[Mockup of web application](./assets/images.screenshot-of-mockup.png)
