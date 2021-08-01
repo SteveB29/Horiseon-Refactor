@@ -9,5 +9,5 @@
 [Horiseon Social Solution Services](https://steveb29.github.io/horiseon-refactor/)
 
 ## Screenshot of web pages
-[Mockup of web application](./assets/images/screenshot-of-mockup.png)
+[Mockup of web application](./assets/images/screenshot-of-mockup.png) <br/>
 [Deployed site](./assets/images/screenshot-of-deployed-site.png)
